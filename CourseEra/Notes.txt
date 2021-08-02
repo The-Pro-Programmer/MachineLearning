@@ -1,3 +1,10 @@
 Machine Learning
 
 Machine Learning is the science of getting computers to learn without explicitly programmed
+Knowinglt unknowingly AI/ML touches  various aspects of our lives
+Examples:
+  Computer vision
+  Amazon, Netflix recommendations
+  Database mining for large data sets
+  Understanding human behavior
+  
