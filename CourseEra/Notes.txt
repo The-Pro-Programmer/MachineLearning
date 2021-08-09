@@ -10,11 +10,17 @@ Examples:
 	Understanding human behavior
 
 Type of machine learning algorithsm
-	Supervises Learning
+	Supervised Learning
 	Unsupervised learning
 	Reinforcement Learning
 	Recommender System
 
+Supervised Learning
+	Supervised learning uses a training set to teach models to yield the desired output.
+	Supervised learning can be separated into two types of problems when data mining
+		Classification
+		Regression:
+	
 
 
 
