@@ -19,7 +19,13 @@ Supervised Learning
 	Supervised learning uses a training set to teach models to yield the desired output.
 	Supervised learning can be separated into two types of problems when data mining
 		Classification
-		Regression:
+		Regression
+		
+	Regression:
+		Continuous valued output is provided
+		
+	Classification
+		Discrete valued output is provided
 	
 
 
