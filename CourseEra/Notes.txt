@@ -9,7 +9,7 @@ Examples:
 	Database mining for large data sets
 	Understanding human behavior
 
-Type of machine learning algorithsm
+Type of machine learning algorithms
 	Supervised Learning
 	Unsupervised learning
 	Reinforcement Learning
@@ -30,6 +30,15 @@ Supervised Learning
 Unsupervised Learning
 	Data is not labeled
 	Data can be clustered
+
+------------------------------------------------------------------
+Model and Cost Function
+Model Representaion
+	We feed training dataset to learning algorithms
+	h:	Hypethesis / Learning algorithm
+	x:	Input
+	y:	Estimated Output
+	"h maps x to y"
 	
 
 
