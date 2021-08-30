@@ -40,5 +40,14 @@ Model Representaion
 	y:	Estimated Output
 	"h maps x to y"
 	
+	Our goal is, given a training set, to learn a function h : X → Y so that h(x) is a “good” predictor for the corresponding value of y
+	
+Cost Function
+	We can measure the accuracy of our hypothesis function by using a cost function. 
+	This takes an average difference of all the results of the hypothesis with inputs from x's and the actual output y's.
+	We choose function parameters such that output of h(x) is close to actual output y
+	Also called squared error function
+	
+	
 
 
