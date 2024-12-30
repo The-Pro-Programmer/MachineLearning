@@ -1,0 +1,14 @@
+Components of NLP:
+	Morphological processing
+	Syntax analysis:
+		Lexicon
+		Grammar
+	Semantic analysis:
+		Semantic rules
+	Pragmatic analysis:
+		Contextual information
+	Target representation
+	
+Morphological processing:
+	Tokenization of input
+	Breaking chunks of input
