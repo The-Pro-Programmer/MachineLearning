@@ -1,0 +1,6 @@
+Types of chatbots:
+    Retrieval based chatbot
+    Generated response based / self learning chatbot
+
+Chatbot architecture:
+    
