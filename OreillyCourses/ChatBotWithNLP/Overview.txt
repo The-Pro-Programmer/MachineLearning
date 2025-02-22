@@ -2,5 +2,25 @@ Types of chatbots:
     Retrieval based chatbot
     Generated response based / self learning chatbot
 
+Terms:
+    RNN: Recurring Neural Network
+    LSTM: Long Short Term Memory
+
+LSTM:
+    Long Short - Term Memory
+    Improved version of RNN
+    Unlike RNN, LSTM holds memory cell to store information for a longer duration
+
 Chatbot architecture:
-    
+    NLP Layer
+    Knowlege base / CMS
+    Data Store
+    Encoder - Deocer Model
+
+Development plan:
+    Package installation
+    Defining chat Model
+    Tokenization
+    Setting-up Encoder-Decorder
+    Implementing RNN based model Development
+    Training, Testing, Validating chatbot outcomes
