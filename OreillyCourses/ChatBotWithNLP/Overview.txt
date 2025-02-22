@@ -24,3 +24,8 @@ Development plan:
     Setting-up Encoder-Decorder
     Implementing RNN based model Development
     Training, Testing, Validating chatbot outcomes
+
+Libraries:
+pip install tensorflow
+pip install numpy
+pip install keras
